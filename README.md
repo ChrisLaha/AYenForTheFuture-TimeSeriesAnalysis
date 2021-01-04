@@ -5,3 +5,4 @@
 - Forecast settle price with ARIMA model.
 - Forecast volatility with GARCH.
 - Create, fit, train, and test linear regression model with sklearn.
+ 
